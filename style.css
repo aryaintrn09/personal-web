@@ -48,4 +48,26 @@ nav ul li a{
     color: #fff;
     text-decoration: none;
     font-size: 18px;
+    padding-bottom: 5px;
+    transition: 0.5s;
 }
+
+nav ul li a:hover{
+    border-bottom: 4px solid #232D3F;
+}
+
+.home-txt{
+    margin-top: 20%;
+    font-size: 30px;
+}
+
+.home-txt h1{
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.home-txt h1 span{
+    color: #005B41;
+}
+
+/*  END NAV BAR */
